@@ -1,0 +1,9 @@
+C:\Users\ruben\source\repos\magazin electric\magazin electric\bin\Debug\magazin electric.exe.config
+C:\Users\ruben\source\repos\magazin electric\magazin electric\bin\Debug\magazin electric.exe
+C:\Users\ruben\source\repos\magazin electric\magazin electric\bin\Debug\magazin electric.pdb
+C:\Users\ruben\source\repos\magazin electric\magazin electric\obj\Debug\magazin electric.csproj.AssemblyReference.cache
+C:\Users\ruben\source\repos\magazin electric\magazin electric\obj\Debug\magazin_electric.Properties.Resources.resources
+C:\Users\ruben\source\repos\magazin electric\magazin electric\obj\Debug\magazin electric.csproj.GenerateResource.cache
+C:\Users\ruben\source\repos\magazin electric\magazin electric\obj\Debug\magazin electric.csproj.CoreCompileInputs.cache
+C:\Users\ruben\source\repos\magazin electric\magazin electric\obj\Debug\magazin electric.exe
+C:\Users\ruben\source\repos\magazin electric\magazin electric\obj\Debug\magazin electric.pdb
