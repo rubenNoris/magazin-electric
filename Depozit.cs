@@ -26,5 +26,20 @@ namespace magazin_electric
             produs.Cantitate -= cantitate;
             Factura.GenereazaFactura(produs.Nume, cantitate, produs.Pret * cantitate);
         }
+
+        public void AfiseazaStoc()
+        {
+            Console.WriteLine("\n--- Stoc curent ---");
+            if (produse.Count == 0)
+            {
+                Console.WriteLine("Depozitul este gol.");
+                return;
+            }
+
+            foreach (var produs in produse)
+            {
+                Console.WriteLine($"Nume: {produs.Nume}, Cantitate: {produs.Cantitate}, Preț: {produs.Pret} RON");
+            }
+        }
     }
 }
